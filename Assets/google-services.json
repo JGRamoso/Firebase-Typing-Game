@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "55659407723",
+    "firebase_url": "https://typinggame-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "typinggame-firebase",
+    "storage_bucket": "typinggame-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55659407723:android:e9698e737097db42b5842e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3s8UMD-ytxOtl5RFZfZgbnnq-ZOZzewU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
